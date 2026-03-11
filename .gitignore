@@ -1,0 +1,17 @@
+# Laravel
+task-manager/vendor/
+task-manager/.env
+task-manager/node_modules/
+task-manager/public/hot
+task-manager/public/storage
+task-manager/storage/*.key
+task-manager/.phpunit.result.cache
+
+# Vue.js
+task-manager-frontend/node_modules/
+task-manager-frontend/.env
+task-manager-frontend/dist/
+
+# Système
+.DS_Store
+Thumbs.db
